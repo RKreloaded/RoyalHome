@@ -1,0 +1,6 @@
+Main Requirements:
+ 1. Login
+ 2. change password 
+ 3. self registration - approval
+ 4. Maintainance payment info
+ 5. submit complaints / suggestions/ ideas
